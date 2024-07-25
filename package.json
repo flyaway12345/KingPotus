@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:KingPotus": "node dist/king-potus/server/server.mjs",
-    "deploy": "ng deploy --base-href=https://flyaway12345.github.io/KingPotus/"
+    "deploy": "ng deploy"
   },
   "private": true,
   "dependencies": {

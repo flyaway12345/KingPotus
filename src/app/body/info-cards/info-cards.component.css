@@ -1,6 +1,7 @@
-.card { 
-    display: inline-block;
-}
+.card {
+    text-align: center;
+    margin:1em;
+  }
 p{
     color:black;
 }

@@ -93,7 +93,12 @@
           }
         },
         "deploy": {
-          "builder": "angular-cli-ghpages:deploy"
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "baseHref": "https://flyaway12345.github.io/KingPotus/",
+            "repo": "https://github.com/flyaway12345/KingPotus.git"
+          }
+
         }
       }
     }
